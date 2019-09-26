@@ -1,10 +1,27 @@
-p{
-	color: orange;
+body,h1,h2,h3,h4,h5,h6 {
+	font-family: "Lato", sans-serif
 }
-#Intro{
-	font-size: 9em;
-	color: orange;
+
+.w3-bar,h1,button {
+	font-family: "Montserrat", sans-serif
 }
-body{
-	background-color: #BEB4B2;
+
+.fa-anchor,.fa-coffee {
+	font-size:200px
+}
+
+#school{
+	padding-top: 5em;
+}
+
+#assignment{
+	padding-top: 5em;
+}
+
+#Summary{
+	padding-top: 5em;
+}
+
+#about{
+	padding-top: 5em;
 }
